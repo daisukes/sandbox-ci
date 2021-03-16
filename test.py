@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 
 class Test:
-    def __init__():
+    def __init__(self):
         print("Hello World")
 
-    def test():
+    def test(self):
         print("Test")
 
 
